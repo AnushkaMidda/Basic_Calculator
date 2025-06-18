@@ -54,4 +54,5 @@ I would like to express my sincere gratitude to **Pinnacle Labs** for providing 
 
 **Anushka Midda**
 Python Development Intern – Pinnacle Labs (2025)
+
 LinkedIn: [Anushka Midda](https://www.linkedin.com/in/anushka-midda-4a8144282)
